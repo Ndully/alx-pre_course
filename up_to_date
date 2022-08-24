@@ -1,0 +1,6 @@
+git remote add upstream
+git pull upstream
+git status
+git add
+git commit -m
+git push origin
